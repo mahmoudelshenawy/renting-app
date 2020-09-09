@@ -1,0 +1,1 @@
+<a href="{{aurl('apartments/'.$id.'/edit')}}" class="btn btn-info mr-3" ><i class="fa fa-edit"></i></a> 
